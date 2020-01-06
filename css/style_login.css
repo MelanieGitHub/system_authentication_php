@@ -1,0 +1,19 @@
+body {
+    color: white;
+}
+
+label {
+    color: black;
+}
+
+.logo {
+    font-size: 4rem;
+}
+
+#sctInscription {
+    display: none;
+}
+
+#div_lien_inscription {
+    display: none;
+}
